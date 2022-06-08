@@ -1,4 +1,4 @@
-Hello World👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F700A7&lines=Seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 <div> 
   <a href = "mailto:leticia@grupohobi.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
