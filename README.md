@@ -6,3 +6,5 @@
  
  
 </div>
+
+<img src="https://github.com/leticia-perotti-grupohobi/leticia-perotti-grupohobi/blob/main/images.jpg" width="300">
